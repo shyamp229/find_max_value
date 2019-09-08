@@ -1,13 +1,3 @@
-# HW1-3
-# Student Name: Shyam Patel
-# Date: September 04, 2018
-#
-# This program computes the index at which the maximum value occurs in a
-# set of 10 confidence values and stores it at the memory location labeled ClassID.
-# If there are two or more indices that have equal maximum values, the LARGER 
-# index is chosen.
-	
-
 .data
 # DO NOT change the following three labels (you may change the initial values):
 ConfidenceValues:     .word 1, 70, 0, 0, 21, 2, 3, 0, 3, 0
